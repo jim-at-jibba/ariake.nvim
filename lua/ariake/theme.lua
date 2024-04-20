@@ -179,6 +179,7 @@ theme.set_highlights = function()
   hl(0, "@tag", { fg = c.yellow, bg = 'NONE' })
   hl(0, "@tag.attribute", { link = '@field' })
   hl(0, "@tag.delimiter", { fg = c.pink, bg = 'NONE' })
+  hl(0, "@keyword.conditional", { fg = c.green, bg = 'NONE' })
 
   -- Semantic
   hl(0, "@lsp.type.namespace", { link = '@namespace' })

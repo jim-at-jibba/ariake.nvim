@@ -209,6 +209,7 @@ TabLineFill = '- bg'
 '@tag' = 'yellow'
 '@tag.attribute' = 'link:@field'
 '@tag.delimiter' = 'pink'
+'@keyword.conditional' = 'green'
 
 [Semantic]
 '@lsp.type.namespace' = 'link:@namespace'
