@@ -1,0 +1,11 @@
+# ariake
+spacebar -m config background_color            0xff2e323e
+spacebar -m config foreground_color            0xfffafafa
+spacebar -m config power_icon_color            0xffdda2f6
+spacebar -m config battery_icon_color          0xff7ef1ea
+spacebar -m config dnd_icon_color              0xff7ef1ea
+spacebar -m config clock_icon_color            0xff48afa7
+spacebar -m config space_icon_color            0xff7f7ce3
+spacebar -m config space_icon_color_secondary  0xffdda2f6
+spacebar -m config space_icon_color_tertiary   0xff73b3e7
+
