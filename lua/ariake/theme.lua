@@ -577,6 +577,15 @@ theme.set_highlights = function()
   hl(0, "MiniStarterItemPrefix", { fg = c.cyan, bg = 'NONE' })
   hl(0, "MiniStarterSection", { link = 'Title' })
   hl(0, "MiniStarterQuery", { fg = c.red, bg = 'NONE', bold=true, })
+
+  -- Flash
+  hl(0, "FlashBackdrop", { fg = c.comment, bg = 'NONE' })
+  hl(0, "FlashMatch", { fg = c.active_blankline, bg = 'NONE' })
+  hl(0, "FlashCurren", { link = 'IncSearch' })
+  hl(0, "FlashLabel", { fg = c.pink, bg = 'NONE' })
+  hl(0, "FlashPrompt", { link = 'Normal' })
+  hl(0, "FlashPromptIcon", { fg = c.purple, bg = 'NONE' })
+  hl(0, "FlashCursor", { fg = c.sign_change, bg = 'NONE' })
 end
 
 return theme

@@ -607,12 +607,3 @@ MiniStarterItemBullet = 'cyan'
 MiniStarterItemPrefix = 'cyan'
 MiniStarterSection = 'link:Title'
 MiniStarterQuery = 'red - b'
-
-[Flash]
-FlashBackdrop = 'comment'
-FlashMatch = 'active_blankline'
-FlashCurren = 'link:IncSearch'
-FlashLabel = 'orange'
-FlashPrompt = 'ornange'
-FlashPromptIcon = 'purple'
-FlashCursor = 'sign_change'
